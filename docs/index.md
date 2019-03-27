@@ -2,14 +2,22 @@
 
 My addons and customisations.
 
-1. Wasteboard
-1. Limit switches
-1. Emergency stop
-1. Z-height mod
-1. Dust shoe
-1. [Z-Probe](probe.md)
-1. Spindle control
-1. Vacuum control
-1. Clamps
-1. Fence
-1. Lights
+## Wasteboard
+## Limit switches
+## Emergency stop
+## Z-height mod
+## Dust shoe
+
+![3D printed dust shoe with a brush](images/dust-shoe-brush-3dp.jpg)
+
+## Z-Probe
+## Spindle control
+
+1. [Customise Makita spindle](https://www.instructables.com/id/Makita-RT0700C-Detachable-Cable-Mod/)
+
+2. Add relay.
+
+## Vacuum control
+## Clamps
+## Fence
+## Lights
