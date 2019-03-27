@@ -8,7 +8,7 @@ My addons and customisations.
 ## Z-height mod
 ## Dust shoe
 
-![3D printed dust shoe with a brush](images/dust-shoe-brush-3dp.jpg)
+![3D printed dust shoe with a brush](./images/dust-shoe-brush-3dp.jpg)
 
 ## Z-Probe
 ## Spindle control
