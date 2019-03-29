@@ -14,7 +14,10 @@ They are must have!
 
 ## Emergency stop
 
-I needed it on a few occasions.
+I needed it on a few occasions. 
+
+![eStop button](./images/estop-button.jpg)
+![eStop button](./files/eStop%20Button%20XT60%20Insert%20(all%20parts).stl)
 
 ## Z-height mod
 
