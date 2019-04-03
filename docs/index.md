@@ -31,7 +31,8 @@ Swap the bottom two 2040 cross beams and you get 40mm more Z-height!
 
 ## Dust shoe
 
-![3D printed dust shoe with a brush](./images/dust-shoe-brush-3dp.jpg)
+Z-fixed dust shoe with a brush (the white part is 3D printed), clear parts are CNC-ed of acrylic, and some plumbing tubes.
+![Z-fixed dust shoe with a brush](./images/dust-shoe.jpg)
 
 ## Z-Probe
 
