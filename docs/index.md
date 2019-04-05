@@ -1,6 +1,6 @@
-# Ooznes OX CNC.
+# Ooznest OX CNC.
 
-My addons and customisations.
+My mods and addons.
 
 ## Wasteboard
 
