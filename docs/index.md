@@ -23,7 +23,7 @@ They are must have!
 
 3D printed, based on [Openbuilds OX CNC router Belt Tensioner](https://www.thingiverse.com/thing:1293079). 
 
-The base is attached to the frame with M5 screws using existing holes (on Y gantry plate and on the end of Y extusion).
+The base is attached to the frame with M5 screws using existing holes (on Y gantry plate and on the end of Y extusion). The tensioner part pushes against the head of the screw that holds the base. 
 
 ## Emergency stop
 
@@ -93,8 +93,10 @@ Important commands:
 
 ## Fence
 
-Stops the chips flying on to the Y belts and gears. I've uses a piece of plexiglass and an aluminium angle. Drilled and tapped holes in prexiglass, attached aluminium angle with M3 screws. Added threaded inserts into the base waste board and attache the other side of the aluminium agle to it with M5 screws. 
+Stops the chips flying on to the Y belts and gears. 
 
 ![Fence](./images/fence.jpg)
+
+I've used a piece of plexiglass and an aluminium angle. Drilled and tapped holes in prexiglass, attached aluminium angle with M3 screws. Added threaded inserts into the base waste board and attache the other side of the aluminium agle to it with M5 screws. 
 
 ## Lights
