@@ -2,15 +2,28 @@
 
 My mods and addons.
 
+![Ooznest OX CNC](./images/cnc.jpg)
+
 ## Wasteboard
 
 M5 nut inserts, spaced 150mm, stagerred so that in the centre of 150x150 square there's a nut.
 
 ![Wasteboard](./images/clamps.jpg)
 
+The wasteboard has a 18mm MDF base which extends in front and the back of the frame, and there's an extra 18mm MDF sheet on top which is the size of the cutting area. This allows surfacing the entire cutting area without leaving any "border", which in turn allows working with workpieces which are longer than the cutting area.
+
 ## Limit switches
 
 They are must have!
+
+## Belt tensioner
+
+![Belt tensioner X](./images/belt-tensioner-x.jpg)
+![Belt tensioner Y](./images/belt-tensioner-y.jpg)
+
+3D printed, based on [Openbuilds OX CNC router Belt Tensioner](https://www.thingiverse.com/thing:1293079). 
+
+The base is attached to the frame with M5 screws using existing holes (on Y gantry plate and on the end of Y extusion).
 
 ## Emergency stop
 
@@ -73,12 +86,15 @@ Important commands:
 2. Add relay.
 
 ## Vacuum control
+
 ## Clamps
 
 ![Simple clamps](./images/clamps.jpg)
 
 ## Fence
 
-Stops the chips flying on to the Y belts and gears.
+Stops the chips flying on to the Y belts and gears. I've uses a piece of plexiglass and an aluminium angle. Drilled and tapped holes in prexiglass, attached aluminium angle with M3 screws. Added threaded inserts into the base waste board and attache the other side of the aluminium agle to it with M5 screws. 
+
+![Fence](./images/fence.jpg)
 
 ## Lights
