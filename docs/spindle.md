@@ -1,6 +1,3 @@
-## Spindle (router)
-
-!
 ## Spindle control
 
 1. [Customise Makita router](https://www.instructables.com/id/Makita-RT0700C-Detachable-Cable-Mod/) - to be able to detach a cable from the spindle and to easily connect it a relay module.
