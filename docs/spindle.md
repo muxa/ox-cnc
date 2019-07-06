@@ -5,7 +5,7 @@
 
 2. Add spindle control relay.
 ![Relay](./images/relay.jpg)
-The mains power goins in and the the controller power output goes to the spindle.
+The mains power goin in (not connected on the photo above) and the controlled power output goes to the spindle.
 
 ## Vacuum control
 
